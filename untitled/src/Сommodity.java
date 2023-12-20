@@ -42,6 +42,15 @@ public class Сommodity {
   int order = sc.nextInt();
   return order;
  }
+class vklad{
+ void vklastest(code,cost){
+  a=code*cost;
+  return a;
+ }
+}
+ void vklad2(){
+  System.out.println(a)
+ }
 
  // Геттери для отримання значень полів
  public String getName() {
